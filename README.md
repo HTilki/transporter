@@ -1,6 +1,6 @@
 # Transporter
 
-Le but de ce projet est de minimiser le coût de transport d'une entreprise disposant de plusieurs entrepots cherchant à deservir plusieurs clients.
+Le but de ce projet est de minimiser le coût de transport d'une entreprise disposant de plusieurs entrepôts cherchant à deservir plusieurs clients.
 
 ## Méthode utilisé
 Cette minimisation de coût sera effectué à l'aide de la fonction `linprog` du package [scipy](https://scipy.org/). 
@@ -12,7 +12,7 @@ Les contraintes sont les suivantes:
 
 
 ## Installation / fichier requis
-Tous les fichiers présent dans le repot GitHub.
+Tous les fichiers présent dans le repos GitHub.
 
 
 ## La base de données
@@ -104,7 +104,7 @@ A l'aide du package [Textual](https://github.com/Textualize/textual).
 ```
 textual run app_textual.py
 ```
-Tout ce passe à la souris (ou presque !).
+Tout se passe à la souris (ou presque !).
 
 <details>
   <summary>🎬 Démonstration </summary>
